@@ -1,0 +1,30 @@
+.w {
+	width: 1200px;
+	margin: auto;
+}
+.header {
+	height: 82px;
+	border-bottom:2px solid #b1191a;
+}
+.registerarea {
+	height: 520px;
+	border: 1px solid #ccc;
+	margin-top: 20px
+}
+.registerarea h3 {
+	display: block;
+	height: 40px;
+	border-bottom: 1px solid #ccc;
+	background-color: #ececec;
+	line-height: 40px;
+	font-weight: normal;
+	padding:0 10px;
+}
+.registerarea em {
+	float: right;
+	margin-right: 10px;
+	font-size: 12px;
+}
+.registerarea a {
+	color: red;
+}
